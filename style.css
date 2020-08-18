@@ -22,3 +22,12 @@ a{
     align-items: center;
     justify-content: center;
 }
+
+/* Hero Section */
+#hero{
+    background-image: url(images/desk3.jpg);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+}
+/* End Hero Section */
